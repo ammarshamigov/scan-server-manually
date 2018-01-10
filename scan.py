@@ -9,7 +9,7 @@ print('''
 |____/ \___\__,_|_| |_|_| |_|_|_| |_|\__, |
                                      |___/ 
 code by Ammar shami
-
+fb: ammar.shami.gov
 ''')
 
 ip = str(input(" Enter IP : "))
